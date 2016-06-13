@@ -1,6 +1,6 @@
 ##annotation-demo
 
-> Spring4.0之后新特性的一些尝试.
+> Spring4.0之后新特性的一些尝试.持续更新,力图涵盖大部分注解学习内容
 
 > 未使用任何Spring,Hibernate的xml文件,全项目只有一个logback的xml配置文件
 
