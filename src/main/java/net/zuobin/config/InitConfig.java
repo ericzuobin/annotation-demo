@@ -8,6 +8,6 @@ import org.springframework.context.annotation.Import;
  * @date 16/6/8
  */
 @Configuration
-@Import({BeanConfig.class})
+@Import({BeanConfig.class, JPAConfig.class})
 public class InitConfig {
 }
